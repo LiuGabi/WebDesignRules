@@ -1,1 +1,1 @@
-+ [8px 原理](/eight-design) 
++ [8px 原理](/visual-design/eight-design) 
